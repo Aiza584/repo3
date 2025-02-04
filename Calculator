@@ -6,3 +6,5 @@ Console.WriteLine("subtract two variables");
 Int x = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("multiply two variables");
 Int x = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("divide two variables");
+Int x = Convert.ToInt32(Console.ReadLine());
